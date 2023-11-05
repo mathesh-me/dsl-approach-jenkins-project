@@ -3,7 +3,7 @@ job('maven_dsl') {
     description('Maven DSL Approach Project project')
 
     scm {
-        git('https://github.com/mathesh-me/simple-java-maven-app', 'master', {node -> node / 'extensions' << '' })
+        git('https://github.com/mathesh-me/simple-java-maven-app', 'main', {node -> node / 'extensions' << '' })
     }
 
     triggers {
