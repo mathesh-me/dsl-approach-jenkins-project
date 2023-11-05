@@ -15,3 +15,5 @@ Job DSL was one of the first popular plugins for Jenkins which allows managing c
 2. Then, click on "Security."
 3. Scroll down a bit, and uncheck the "Enable script security for Job DSL scripts" option.
 4. Finally , Click on "Save"
+
+![dsl-8](https://github.com/mathesh-me/dsl-approach-jenkins-project/assets/144098846/a5d00eb9-e26d-4615-b86a-007b33d65551)
