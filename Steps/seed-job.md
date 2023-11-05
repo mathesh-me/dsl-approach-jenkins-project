@@ -15,5 +15,8 @@
 5. Click on Configure.
 6. Select Source Code Management as "Git."
 
-7. Click on Build Step and select "Process Job DSLs."
 
+
+8. Click on Build Step and select "Process Job DSLs."
+
+![dsl-8](https://github.com/mathesh-me/dsl-approach-jenkins-project/assets/144098846/cac8b0c9-bf3c-4f85-8bd1-9c8e95680ea8)
