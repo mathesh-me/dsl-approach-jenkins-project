@@ -19,4 +19,5 @@
 
 8. Click on Build Step and select "Process Job DSLs."
 
-![dsl-8](https://github.com/mathesh-me/dsl-approach-jenkins-project/assets/144098846/cac8b0c9-bf3c-4f85-8bd1-9c8e95680ea8)
+
+![dsl-8](https://github.com/mathesh-me/dsl-approach-jenkins-project/assets/144098846/8ff91251-02d6-460a-93e0-9045b5cc34fd)
