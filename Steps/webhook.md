@@ -1,6 +1,14 @@
 ## Steps for configuring webhook for the pipeline
 
-- As we already given in the Jenkins job configuration to trigger the job when there is any changes in the GitHub repository, we need to configure the webhook in the GitHub repository.(As per DSl script)
+- As we already given in the Jenkins job configuration to trigger the Maven job when there is any changes in the GitHub repository, we need to configure the webhook in the GitHub repository.(As per DSl script)
+- But We need to configure for Seed job Manually. For that we need to go to jenkins and configure the webhook for the seed job.
+    1. Go to the Jenkins server
+    2. Click on the Seed job in the dashboard
+    3. Click on 'Configure' in the left side of the dashboard
+    4. Scroll down to the 'Build Triggers' section
+    5. Select 'GitHub hook trigger for GITScm polling'
+    6. Click 'Save'
+- Now , Repeat the below steps for the two repositories(The repositories which contains code for both jobs if you kept the code for both jobs in same repository if need to do that on that particular repository) which you have created in the GitHub.
 - Go to the GitHub repository
 - Click on 'Settings' in the right side of the repository
 - Click on 'Webhooks' in the left side of the repository
