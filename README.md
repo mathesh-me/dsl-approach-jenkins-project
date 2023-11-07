@@ -4,6 +4,10 @@
 
 This Jenkins project utilizes the DSL (Domain-Specific Language) approach to automate various tasks in the continuous integration and continuous delivery (CI/CD) pipeline. It is designed to streamline the software development process by automatically retrieving code from a specified GitHub repository, building a JAR file using Maven, testing the code, deploying the JAR file locally, archiving build artifacts, storing JUnit test results, and sending email notifications in the event of job failures. GitHub webhook integration is also configured to trigger the job automatically upon code changes.
 
+## Workflow Diagram 📊
+
+
+
 ## Technologies Used 🛠️
 
 - Jenkins
