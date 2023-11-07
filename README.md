@@ -6,6 +6,7 @@ This Jenkins project utilizes the DSL (Domain-Specific Language) approach to aut
 
 ## Workflow Diagram 📊
 
+![DSL Approach Workflow Diagram](https://github.com/mathesh-me/dsl-approach-jenkins-project/assets/144098846/9d368876-b528-4ec2-ab77-cab2c0fce36e)
 
 
 ## Technologies Used 🛠️
