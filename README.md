@@ -12,6 +12,9 @@ This Jenkins project utilizes the DSL (Domain-Specific Language) approach to aut
 
 DSL is a programming language that is designed to perform a specific set of tasks. It is a high-level language that is easy to read and understand. DSL is used to automate various tasks in the CI/CD pipeline, such as code retrieval, building, testing, and deployment. It is also used to archive build artifacts, store test results, and send email notifications in case of job failures. DSL is a powerful tool that can be used to enhance the automation and efficiency of the software development process.
 
+## Best Practices 📝
+
+- **Use DSL to automate repetitive tasks**: DSL is a powerful tool that can be used to automate repetitive tasks in the CI/CD pipeline, such as code retrieval, building, testing, and deployment. It is also used to archive build artifacts, store test results, and send email notifications in case of job failures.
 
 ## Technologies Used 🛠️
 
