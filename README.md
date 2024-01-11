@@ -68,7 +68,7 @@ To get started, please follow the steps below:
 | 6 | [Build Application][Step-6] |
 | 7 | [Configuring Webhook][Step-7] |
 
-   [Step-1]: <./Steps/configure.d>
+   [Step-1]: <./Steps/configure.md>
    [Step-2]: <./Steps/dsl.md>   
    [Step-3]: <./Steps/seed-job.md>
    [Step-4]: <./Steps/plugins.md>
