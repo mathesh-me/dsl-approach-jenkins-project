@@ -56,7 +56,7 @@ With these prerequisites met, you can smoothly set up and run the Jenkins projec
 
 ## Getting Started 🏁
 
-To get started, please follow the steps below:
+To get started, please follow the steps described below:
 
 | Step No | Document Link |
 | ------ | ------ |
