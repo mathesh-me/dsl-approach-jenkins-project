@@ -62,16 +62,16 @@ To get started, please follow the steps described below:
 | ------ | ------ |
 | 1 | [Configuring Jenkins][Step-1] |
 | 2 | [What is DSL][Step-2] |
-| 3 | [Create DSL Seed Job][Step-3] |
-| 4 | [Installation and Configuration of Plugins][Step-4] |
+| 3 | [Installation and Configuration of Plugins][Step-3] |
+| 4 | [Create DSL Seed Job][Step-4] |
 | 5 | [Job Configuration][Step-5] |
 | 6 | [Build Application][Step-6] |
 | 7 | [Configuring Webhook][Step-7] |
 
    [Step-1]: <./Steps/configure.md>
    [Step-2]: <./Steps/dsl.md>   
-   [Step-3]: <./Steps/seed-job.md>
-   [Step-4]: <./Steps/plugins.md>
+   [Step-3]: <./Steps/plugins.md>
+   [Step-4]: <./Steps/seed-job.md>
    [Step-5]: <./Steps/job-configuration.md>  
    [Step-6]: <./Steps/build-job.md>
    [Step-7]: <./Steps/webhook.md>
