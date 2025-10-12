@@ -28,6 +28,6 @@ job('maven_dsl') {
     publishers {
         archiveArtifacts('target/*.jar')
         archiveJunit('target/surefire-reports/*.xml')
-        mailer('ehg833599@gmail.com', false, true)
+        mailer('agye2000@gmail.com', false, true)
     }
 }
